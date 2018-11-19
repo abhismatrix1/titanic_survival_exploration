@@ -1,2 +1,2 @@
-# titanic_survival_exploration
+# Titanic survival exploration
 Udacity Project 1
